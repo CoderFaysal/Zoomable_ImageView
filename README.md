@@ -3,8 +3,6 @@
 ### Create a JavaClass this name - ZoomableImageView
 
 ```
-package com.coderfaysal.madrasah;
-
 import android.content.Context;
 import android.graphics.Matrix;
 import android.graphics.PointF;
